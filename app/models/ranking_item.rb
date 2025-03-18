@@ -1,0 +1,2 @@
+class RankingItem < ApplicationRecord
+end
